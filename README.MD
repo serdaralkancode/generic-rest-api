@@ -18,8 +18,9 @@ Service Code
 ## How to use it
 
 > All generic classes are under generic folder
-<br />
 > Product api example classes are under product folder
+
+<br />
 
 1) Create an Entity (like Product) extends **GenericEntity**
 2) Create a DTO (like ProductDTO) extends **GenericDTO**
